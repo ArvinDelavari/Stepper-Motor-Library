@@ -1,18 +1,16 @@
-# Stepper-Motor-Arduino
+# Stepper Motor Library for Arduino
 Stepper Motor  Library for A4988/LV8729/TB6600 and other similar Motor Drivers. (Linear Speed to Motor Movement)
-  STEPPER MOTOR LIBRARY
-  WRITTEN FOR A4988/LV8729/TB6600 AND OTHER SIMILAR DIVERS WICH CAN OPERATE FROM 1 to 128 MICROSTEPS
-  YOU CAN CHANGE PARAMTERS AS YOU USE IN YOUR OWN SETUP (MCU PINS)
 
-  ATTENTION : YOU CAN CHANGE CALIBRATION PARAMETERS IN CODE MANNUALY ACCORDING TO YOUR USAGE AND SETUP
+- Written for A4988/LV8729/TB6600 and other similar drivers which can operate from 1 to 128 microsteps
+- You can change parameter as you use in your own setup (MCU PINS)
+- Inputs : SPEED - MOVEMENT (UNIT : mm/s - mm)
+- Serial Debugger is used for monitoring actions, So initialize serial monitor before starting
 
-  INPUSTS : SPEED - MOVEMENT (UNIT : mm/s - mm)
-  SERIAL DEBUGGER IS USED FOR MONITORING ACTIONS. SO INITIALIZE SERIAL MONITOR BEFORE STARTING
-  DATE : 9/17/2022
-  
-  BY : ARVIN DELAVARI - IRAN UNIVERSITY OF SCIENCE AND TECHNOLOGY
-       EMBEDDED SOFTWARE PROGRAMMER @ SAMA INSTRUMENTS - TEHRAN,IRAN
-       ELECTRONICS R&D SPECIALIST   @ MURANI (TFP â„¢)   - TEHRAN,IRAN
-  E-MAIL   : arvin7807@gmail.com
-  LinkedIn : arvin-delavari
-  Instagram: @arvin_delavari
+> [!NOTE]\
+> You can change calibration parameters in code manually according to your usage and setup
+
+- Date : 9/17/2022 
+- By Arvin Delavari - Iran University of Science and Technology
+- E-MAIL   : arvin7807@gmail.com
+- LinkedIn : arvin-delavari
+- Instagram: @arvin_delavari
