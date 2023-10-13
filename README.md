@@ -1,5 +1,5 @@
-# Stepper Motor Library for Arduino
-Stepper Motor  Library for A4988/LV8729/TB6600 and other similar Motor Drivers. (Linear Speed to Motor Movement)
+# Stepper Motor Library
+Stepper Motor Library (Linear Speed to Motor Movement) for A4988/LV8729/TB6600 and other similar motor drivers for all Arduino platfprms. 
 
 - Written for A4988/LV8729/TB6600 and other similar drivers which can operate from 1 to 128 microsteps
 - You can change parameter as you use in your own setup (MCU PINS)
